@@ -2,6 +2,13 @@
 
 Welcome to my personal knowledge repository. This is a central hub for all my academic notes, project documentations, and self-learning resources.
 
+## 🌐 Live Deployments
+
+- **Version 2 (Current & Recommended):** [https://brain-vault-iota.vercel.app/](https://brain-vault-iota.vercel.app/)
+  - *Refactored static frontend deployed on Vercel.*
+- **Version 1 (Legacy):** [https://cs-archive.streamlit.app/](https://cs-archive.streamlit.app/)
+  - *Original Streamlit prototype.*
+
 ---
 
 ## 🚀 Current Roadmap (Spring 2026)
