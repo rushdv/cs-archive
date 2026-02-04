@@ -140,3 +140,9 @@ body {
   0%, 100% { opacity: 1; }
   50% { opacity: 0; }
 }
+
+/* Custom Scrollbar */
+.custom-scrollbar::-webkit-scrollbar { width: 4px; }
+.custom-scrollbar::-webkit-scrollbar-track { background: #000; }
+.custom-scrollbar::-webkit-scrollbar-thumb { background: #22c55e; border-radius: 2px; }
+.custom-scrollbar::-webkit-scrollbar-thumb:hover { background: #16a34a; }
