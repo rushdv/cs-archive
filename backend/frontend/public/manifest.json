@@ -6,6 +6,864 @@
     "children": [
       {
         "type": "directory",
+        "name": "Academics",
+        "path": "content/Computer-Science/Academics",
+        "children": [
+          {
+            "type": "directory",
+            "name": "Bachelor-CS",
+            "path": "content/Computer-Science/Academics/Bachelor-CS",
+            "children": [
+              {
+                "type": "directory",
+                "name": "Semester-01",
+                "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01",
+                "children": [
+                  {
+                    "type": "directory",
+                    "name": "CSE 1101",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Computer_Fundamentals",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101/Computer_Fundamentals",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Internet_Basics",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101/Internet_Basics",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Logic_Gates",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101/Logic_Gates",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Number_Systems",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101/Number_Systems",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Operating_Systems",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101/Operating_Systems",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/CSE 1101/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "ENG 1100",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/ENG 1100",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Assignments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/ENG 1100/Assignments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Exams",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/ENG 1100/Exams",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lectures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/ENG 1100/Lectures",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/ENG 1100/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "GED 1202",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/GED 1202",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Assignments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/GED 1202/Assignments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Exams",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/GED 1202/Exams",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lectures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/GED 1202/Lectures",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/GED 1202/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "MATH 1101",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/MATH 1101",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Applications_of_Calculus",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/MATH 1101/Applications_of_Calculus",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Differential_Calculus",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/MATH 1101/Differential_Calculus",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Integral_Calculus",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/MATH 1101/Integral_Calculus",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Limits_and_Continuity",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/MATH 1101/Limits_and_Continuity",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-01/MATH 1101/RESOURCES.md"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "Semester-02",
+                "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02",
+                "children": [
+                  {
+                    "type": "directory",
+                    "name": "CSE 1102",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Arrays_and_Strings",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/Arrays_and_Strings",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Control_Structures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/Control_Structures",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Functions",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/Functions",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Pointers",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/Pointers",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Structures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/Structures",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Variables_and_DataTypes",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/Variables_and_DataTypes",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1102/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 1157",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1157",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Code_Samples",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1157/Code_Samples",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lab_Assignments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1157/Lab_Assignments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Mini_Projects",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1157/Mini_Projects",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1157/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 1258",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1258",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Graph_Theory",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1258/Graph_Theory",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Logic_and_Proofs",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1258/Logic_and_Proofs",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Relations_and_Functions",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1258/Relations_and_Functions",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Set_Theory",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1258/Set_Theory",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/CSE 1258/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "ENG 1102",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/ENG 1102",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Assignments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/ENG 1102/Assignments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Exams",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/ENG 1102/Exams",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lectures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/ENG 1102/Lectures",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/ENG 1102/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "MATH 1302",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/MATH 1302",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Differential_Equations",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/MATH 1302/Differential_Equations",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Fourier_Analysis",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/MATH 1302/Fourier_Analysis",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-02/MATH 1302/RESOURCES.md"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "Semester-03",
+                "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03",
+                "children": [
+                  {
+                    "type": "directory",
+                    "name": "CSE 1205",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1205",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "AC_Circuits",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1205/AC_Circuits",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "DC_Circuits",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1205/DC_Circuits",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Network_Theorems",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1205/Network_Theorems",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1205/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 1259",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1259",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Circuit_Simulation",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1259/Circuit_Simulation",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lab_Experiments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1259/Lab_Experiments",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 1259/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 2111",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Arrays_and_Lists",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111/Arrays_and_Lists",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Hashing",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111/Hashing",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Sorting_and_Searching",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111/Sorting_and_Searching",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Stacks_and_Queues",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111/Stacks_and_Queues",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Trees_and_Graphs",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111/Trees_and_Graphs",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2111/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 2162",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2162",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Data_Structure_Implementations",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2162/Data_Structure_Implementations",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lab_Tasks",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2162/Lab_Tasks",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/CSE 2162/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "ENG 1203",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/ENG 1203",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Assignments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/ENG 1203/Assignments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Exams",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/ENG 1203/Exams",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lectures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/ENG 1203/Lectures",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/ENG 1203/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "PHY 1201",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/PHY 1201",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Heat_and_Thermodynamics",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/PHY 1201/Heat_and_Thermodynamics",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Properties_of_Matter",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/PHY 1201/Properties_of_Matter",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Waves_and_Oscillations",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/PHY 1201/Waves_and_Oscillations",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-03/PHY 1201/RESOURCES.md"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "directory",
+                "name": "Semester-04",
+                "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04",
+                "children": [
+                  {
+                    "type": "directory",
+                    "name": "CSE 1205",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "AC_Circuits",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/AC_Circuits",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/AC_Circuits/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "DC_Circuits",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/DC_Circuits",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/DC_Circuits/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Magnetic_Circuits",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/Magnetic_Circuits",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Network_Theorems",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/Network_Theorems",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/Network_Theorems/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Transient_Analysis",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/Transient_Analysis",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/Transient_Analysis/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1205/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 1259",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1259",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Breadboard_Experiments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1259/Breadboard_Experiments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Circuit_Simulation",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1259/Circuit_Simulation",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lab_Reports",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1259/Lab_Reports",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 1259/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 2263",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Divide_And_Conquer",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Divide_And_Conquer",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Divide_And_Conquer/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Dynamic_Programming",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Dynamic_Programming",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Dynamic_Programming/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Graph_Algorithms",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Graph_Algorithms",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Graph_Algorithms/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Greedy_Algorithms",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Greedy_Algorithms",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Greedy_Algorithms/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Introduction",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Introduction",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Introduction/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lectures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Lectures",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Notes",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/Notes",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "NP_Completeness",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/NP_Completeness",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/NP_Completeness/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2263/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "CSE 2264",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2264",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Assignments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2264/Assignments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lab_Experiments",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2264/Lab_Experiments",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Project",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2264/Project",
+                        "children": []
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/CSE 2264/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "MATH 2103",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Coordinate_Geometry_2D",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Coordinate_Geometry_2D",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Coordinate_Geometry_2D/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Coordinate_Geometry_3D",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Coordinate_Geometry_3D",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Matrices_And_Determinants",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Matrices_And_Determinants",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Matrices_And_Determinants/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Vectors",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Vectors",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/Vectors/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/MATH 2103/RESOURCES.md"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "directory",
+                    "name": "PHY 1302",
+                    "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302",
+                    "children": [
+                      {
+                        "type": "directory",
+                        "name": "Heat_And_Thermodynamics",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Heat_And_Thermodynamics",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Heat_And_Thermodynamics/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Lectures",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Lectures",
+                        "children": []
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Properties_Of_Matter",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Properties_Of_Matter",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Properties_Of_Matter/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "directory",
+                        "name": "Waves_And_Oscillations",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Waves_And_Oscillations",
+                        "children": [
+                          {
+                            "type": "file",
+                            "name": "NOTES.md",
+                            "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/Waves_And_Oscillations/NOTES.md"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "file",
+                        "name": "RESOURCES.md",
+                        "path": "content/Computer-Science/Academics/Bachelor-CS/Semester-04/PHY 1302/RESOURCES.md"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "directory",
         "name": "Spring-2026",
         "path": "content/Computer-Science/Spring-2026",
         "children": [
@@ -140,850 +998,6 @@
         "type": "file",
         "name": "README.md",
         "path": "content/Projects/README.md"
-      }
-    ]
-  },
-  {
-    "type": "directory",
-    "name": "semester-1",
-    "path": "content/semester-1",
-    "children": [
-      {
-        "type": "directory",
-        "name": "CSE 1101",
-        "path": "content/semester-1/CSE 1101",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Computer_Fundamentals",
-            "path": "content/semester-1/CSE 1101/Computer_Fundamentals",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Internet_Basics",
-            "path": "content/semester-1/CSE 1101/Internet_Basics",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Logic_Gates",
-            "path": "content/semester-1/CSE 1101/Logic_Gates",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Number_Systems",
-            "path": "content/semester-1/CSE 1101/Number_Systems",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Operating_Systems",
-            "path": "content/semester-1/CSE 1101/Operating_Systems",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-1/CSE 1101/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "ENG 1100",
-        "path": "content/semester-1/ENG 1100",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Assignments",
-            "path": "content/semester-1/ENG 1100/Assignments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Exams",
-            "path": "content/semester-1/ENG 1100/Exams",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lectures",
-            "path": "content/semester-1/ENG 1100/Lectures",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-1/ENG 1100/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "GED 1202",
-        "path": "content/semester-1/GED 1202",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Assignments",
-            "path": "content/semester-1/GED 1202/Assignments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Exams",
-            "path": "content/semester-1/GED 1202/Exams",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lectures",
-            "path": "content/semester-1/GED 1202/Lectures",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-1/GED 1202/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "MATH 1101",
-        "path": "content/semester-1/MATH 1101",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Applications_of_Calculus",
-            "path": "content/semester-1/MATH 1101/Applications_of_Calculus",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Differential_Calculus",
-            "path": "content/semester-1/MATH 1101/Differential_Calculus",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Integral_Calculus",
-            "path": "content/semester-1/MATH 1101/Integral_Calculus",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Limits_and_Continuity",
-            "path": "content/semester-1/MATH 1101/Limits_and_Continuity",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-1/MATH 1101/RESOURCES.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "type": "directory",
-    "name": "semester-2",
-    "path": "content/semester-2",
-    "children": [
-      {
-        "type": "directory",
-        "name": "CSE 1102",
-        "path": "content/semester-2/CSE 1102",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Arrays_and_Strings",
-            "path": "content/semester-2/CSE 1102/Arrays_and_Strings",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Control_Structures",
-            "path": "content/semester-2/CSE 1102/Control_Structures",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Functions",
-            "path": "content/semester-2/CSE 1102/Functions",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Pointers",
-            "path": "content/semester-2/CSE 1102/Pointers",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Structures",
-            "path": "content/semester-2/CSE 1102/Structures",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Variables_and_DataTypes",
-            "path": "content/semester-2/CSE 1102/Variables_and_DataTypes",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-2/CSE 1102/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 1157",
-        "path": "content/semester-2/CSE 1157",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Code_Samples",
-            "path": "content/semester-2/CSE 1157/Code_Samples",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lab_Assignments",
-            "path": "content/semester-2/CSE 1157/Lab_Assignments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Mini_Projects",
-            "path": "content/semester-2/CSE 1157/Mini_Projects",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-2/CSE 1157/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 1258",
-        "path": "content/semester-2/CSE 1258",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Graph_Theory",
-            "path": "content/semester-2/CSE 1258/Graph_Theory",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Logic_and_Proofs",
-            "path": "content/semester-2/CSE 1258/Logic_and_Proofs",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Relations_and_Functions",
-            "path": "content/semester-2/CSE 1258/Relations_and_Functions",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Set_Theory",
-            "path": "content/semester-2/CSE 1258/Set_Theory",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-2/CSE 1258/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "ENG 1102",
-        "path": "content/semester-2/ENG 1102",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Assignments",
-            "path": "content/semester-2/ENG 1102/Assignments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Exams",
-            "path": "content/semester-2/ENG 1102/Exams",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lectures",
-            "path": "content/semester-2/ENG 1102/Lectures",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-2/ENG 1102/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "MATH 1302",
-        "path": "content/semester-2/MATH 1302",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Differential_Equations",
-            "path": "content/semester-2/MATH 1302/Differential_Equations",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Fourier_Analysis",
-            "path": "content/semester-2/MATH 1302/Fourier_Analysis",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-2/MATH 1302/RESOURCES.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "type": "directory",
-    "name": "semester-3",
-    "path": "content/semester-3",
-    "children": [
-      {
-        "type": "directory",
-        "name": "CSE 1205",
-        "path": "content/semester-3/CSE 1205",
-        "children": [
-          {
-            "type": "directory",
-            "name": "AC_Circuits",
-            "path": "content/semester-3/CSE 1205/AC_Circuits",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "DC_Circuits",
-            "path": "content/semester-3/CSE 1205/DC_Circuits",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Network_Theorems",
-            "path": "content/semester-3/CSE 1205/Network_Theorems",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-3/CSE 1205/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 1259",
-        "path": "content/semester-3/CSE 1259",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Circuit_Simulation",
-            "path": "content/semester-3/CSE 1259/Circuit_Simulation",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lab_Experiments",
-            "path": "content/semester-3/CSE 1259/Lab_Experiments",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-3/CSE 1259/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 2111",
-        "path": "content/semester-3/CSE 2111",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Arrays_and_Lists",
-            "path": "content/semester-3/CSE 2111/Arrays_and_Lists",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Hashing",
-            "path": "content/semester-3/CSE 2111/Hashing",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Sorting_and_Searching",
-            "path": "content/semester-3/CSE 2111/Sorting_and_Searching",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Stacks_and_Queues",
-            "path": "content/semester-3/CSE 2111/Stacks_and_Queues",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Trees_and_Graphs",
-            "path": "content/semester-3/CSE 2111/Trees_and_Graphs",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-3/CSE 2111/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 2162",
-        "path": "content/semester-3/CSE 2162",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Data_Structure_Implementations",
-            "path": "content/semester-3/CSE 2162/Data_Structure_Implementations",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lab_Tasks",
-            "path": "content/semester-3/CSE 2162/Lab_Tasks",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-3/CSE 2162/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "ENG 1203",
-        "path": "content/semester-3/ENG 1203",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Assignments",
-            "path": "content/semester-3/ENG 1203/Assignments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Exams",
-            "path": "content/semester-3/ENG 1203/Exams",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lectures",
-            "path": "content/semester-3/ENG 1203/Lectures",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-3/ENG 1203/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "PHY 1201",
-        "path": "content/semester-3/PHY 1201",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Heat_and_Thermodynamics",
-            "path": "content/semester-3/PHY 1201/Heat_and_Thermodynamics",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Properties_of_Matter",
-            "path": "content/semester-3/PHY 1201/Properties_of_Matter",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Waves_and_Oscillations",
-            "path": "content/semester-3/PHY 1201/Waves_and_Oscillations",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-3/PHY 1201/RESOURCES.md"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "type": "directory",
-    "name": "semester-4",
-    "path": "content/semester-4",
-    "children": [
-      {
-        "type": "directory",
-        "name": "CSE 1205",
-        "path": "content/semester-4/CSE 1205",
-        "children": [
-          {
-            "type": "directory",
-            "name": "AC_Circuits",
-            "path": "content/semester-4/CSE 1205/AC_Circuits",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 1205/AC_Circuits/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "DC_Circuits",
-            "path": "content/semester-4/CSE 1205/DC_Circuits",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 1205/DC_Circuits/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Magnetic_Circuits",
-            "path": "content/semester-4/CSE 1205/Magnetic_Circuits",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Network_Theorems",
-            "path": "content/semester-4/CSE 1205/Network_Theorems",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 1205/Network_Theorems/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Transient_Analysis",
-            "path": "content/semester-4/CSE 1205/Transient_Analysis",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 1205/Transient_Analysis/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-4/CSE 1205/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 1259",
-        "path": "content/semester-4/CSE 1259",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Breadboard_Experiments",
-            "path": "content/semester-4/CSE 1259/Breadboard_Experiments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Circuit_Simulation",
-            "path": "content/semester-4/CSE 1259/Circuit_Simulation",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lab_Reports",
-            "path": "content/semester-4/CSE 1259/Lab_Reports",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-4/CSE 1259/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 2263",
-        "path": "content/semester-4/CSE 2263",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Divide_And_Conquer",
-            "path": "content/semester-4/CSE 2263/Divide_And_Conquer",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 2263/Divide_And_Conquer/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Dynamic_Programming",
-            "path": "content/semester-4/CSE 2263/Dynamic_Programming",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 2263/Dynamic_Programming/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Graph_Algorithms",
-            "path": "content/semester-4/CSE 2263/Graph_Algorithms",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 2263/Graph_Algorithms/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Greedy_Algorithms",
-            "path": "content/semester-4/CSE 2263/Greedy_Algorithms",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 2263/Greedy_Algorithms/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Introduction",
-            "path": "content/semester-4/CSE 2263/Introduction",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 2263/Introduction/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Lectures",
-            "path": "content/semester-4/CSE 2263/Lectures",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Notes",
-            "path": "content/semester-4/CSE 2263/Notes",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "NP_Completeness",
-            "path": "content/semester-4/CSE 2263/NP_Completeness",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/CSE 2263/NP_Completeness/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-4/CSE 2263/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "CSE 2264",
-        "path": "content/semester-4/CSE 2264",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Assignments",
-            "path": "content/semester-4/CSE 2264/Assignments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Lab_Experiments",
-            "path": "content/semester-4/CSE 2264/Lab_Experiments",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Project",
-            "path": "content/semester-4/CSE 2264/Project",
-            "children": []
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-4/CSE 2264/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "MATH 2103",
-        "path": "content/semester-4/MATH 2103",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Coordinate_Geometry_2D",
-            "path": "content/semester-4/MATH 2103/Coordinate_Geometry_2D",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/MATH 2103/Coordinate_Geometry_2D/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Coordinate_Geometry_3D",
-            "path": "content/semester-4/MATH 2103/Coordinate_Geometry_3D",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Matrices_And_Determinants",
-            "path": "content/semester-4/MATH 2103/Matrices_And_Determinants",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/MATH 2103/Matrices_And_Determinants/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Vectors",
-            "path": "content/semester-4/MATH 2103/Vectors",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/MATH 2103/Vectors/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-4/MATH 2103/RESOURCES.md"
-          }
-        ]
-      },
-      {
-        "type": "directory",
-        "name": "PHY 1302",
-        "path": "content/semester-4/PHY 1302",
-        "children": [
-          {
-            "type": "directory",
-            "name": "Heat_And_Thermodynamics",
-            "path": "content/semester-4/PHY 1302/Heat_And_Thermodynamics",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/PHY 1302/Heat_And_Thermodynamics/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Lectures",
-            "path": "content/semester-4/PHY 1302/Lectures",
-            "children": []
-          },
-          {
-            "type": "directory",
-            "name": "Properties_Of_Matter",
-            "path": "content/semester-4/PHY 1302/Properties_Of_Matter",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/PHY 1302/Properties_Of_Matter/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "directory",
-            "name": "Waves_And_Oscillations",
-            "path": "content/semester-4/PHY 1302/Waves_And_Oscillations",
-            "children": [
-              {
-                "type": "file",
-                "name": "NOTES.md",
-                "path": "content/semester-4/PHY 1302/Waves_And_Oscillations/NOTES.md"
-              }
-            ]
-          },
-          {
-            "type": "file",
-            "name": "RESOURCES.md",
-            "path": "content/semester-4/PHY 1302/RESOURCES.md"
-          }
-        ]
       }
     ]
   },
